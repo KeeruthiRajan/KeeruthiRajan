@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there 👋
+  # About me
+  -  🎓 Uni student bored enough to create special projects
+  -  🎮 Interest in developing games and art
+  -  ⚡ Sometimes love to take part in Hardware projects
+
+
 
 <!--
 **KeeruthiRajan/KeeruthiRajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
