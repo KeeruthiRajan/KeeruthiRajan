@@ -1,4 +1,4 @@
-## Hello there 👋
+### Hello there 👋
   # About me
   -  🎓 Uni student bored enough to create special projects
   -  🎮 Interest in developing games and art
