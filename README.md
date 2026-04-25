@@ -2,7 +2,7 @@
   # About me
   -  🎓 Uni student bored enough to create special projects
   -  🎮 Interest in developing games and art
-  -  ⚡ Sometimes love to take part in Hardware projects
+  -  ⚡ Love to take part in Hardware projects
 
 
 
